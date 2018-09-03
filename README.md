@@ -17,5 +17,5 @@ If you'd like to give a talk at our chapter, please (fill out the form here.)[li
 # Contact
  * Email: [PapersWeLoveKTR@gmail.com](mailto:PapersWeLoveKTR@gmail.com)
  * Twitter: [@PapersWeLoveKTR](https://twitter.com/paperswelovektr)
- * Slack: [Get Invited & goto KTR Chapter](http://papersweloveslack.herokuapp.com)
+ * Slack: [Get Invited & goto KTR Channel](http://papersweloveslack.herokuapp.com)
 
