@@ -3,6 +3,7 @@
 ### Read research papers from Industry and Academia, every Friday!
 PWL KTR is a community of people who're interested in scientific research from computer science and related fields.
 **Venue**: SRM University, Kattankulathur, India
+
 **Time**: 5:30 PM
 
 
