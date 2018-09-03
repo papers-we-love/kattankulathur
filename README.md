@@ -1,6 +1,8 @@
 # Papers We Love, KTR
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/papers-we-love/kattankulathur/pulls) 
 ### Read research papers from Industry and Academia, every Friday!
+PWL KTR is a community of people who're interested in scientific research from computer science and related fields.
+
 **Venue**: SRM University, Kattankulathur, India
 **Time**: 5:30 PM
 
