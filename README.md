@@ -11,7 +11,7 @@ PWL KTR is a community of engineers, hackers, researchers, and students who're i
 - **Paper Name**: [One-liner abstract](Link to Fermat Library annotated version)
 
 # Want to Give a Talk?
-We publish our talk to [Paper We Love's Youtube](https://www.youtube.com/user/PapersWeLove) & [MixCloud Channels](https://www.mixcloud.com/paperswelove/) and where there are viewed by an audience of researchers and developers worldwide. 
+We publish our talks to Paper We Love's [Youtube](https://www.youtube.com/user/PapersWeLove) & [MixCloud](https://www.mixcloud.com/paperswelove/) Channels and where there are viewed by an audience of researchers and developers worldwide.
 
 If you'd like to give a talk at our chapter, please (fill out the form here.)[link to goo.gl forms]
 
