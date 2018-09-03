@@ -4,6 +4,7 @@
 PWL KTR is a community of engineers, hackers, researchers, and students who're interested in scientific research from computer science and related fields. In each session, we have one-two paper presentations of 30-60 minutes each. We pick a paper and a speaker prior to the meetup. The speaker walks us through the background, presents the paper, shows a coding demo if possible, All this is followed by a group discussion about the research.
 
 **Time**: 5:30 PM - 6:30PM
+
 **Venue**: SRM University, Kattankulathur, India {embed map/geo cordinate/fastly}
 
 # Past Papers
