@@ -5,7 +5,7 @@ PWL KTR is a community of engineers, hackers, researchers, and students who're i
 
 **Time**: 5:30 PM - 6:30PM
 
-**Venue**: SRM University, Kattankulathur, India {embed map/geo cordinate/fastly}
+**Venue**: [SRM University, Kattankulathur, India](https://goo.gl/maps/kHXXZa1Ere82)
 
 # Past Papers
 - **Paper Name**: [One-liner abstract](Link to Fermat Library annotated version)
